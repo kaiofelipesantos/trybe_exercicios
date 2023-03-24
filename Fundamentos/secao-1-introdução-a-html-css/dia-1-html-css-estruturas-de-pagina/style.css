@@ -65,3 +65,37 @@ font-weight: 600;
 #header-text p {
    margin-bottom: 30px;
 }
+
+#studant-testimonial {
+   padding: 10px;
+}
+
+.studant-content {
+   text-align: center;
+   display: inline-block;
+   width: 30%;
+   padding: 1.1%;
+}
+
+#learning {
+   padding: 50px;
+}
+
+#learning-right {
+   float: right;
+}
+
+#learning-left {
+   float: left;
+   width: 50%;
+}
+
+#final {
+   clear: both;
+   text-align: center;
+   padding: 20px;
+}
+
+#final h3 {
+   padding-bottom: 50px;
+}
